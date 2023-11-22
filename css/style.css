@@ -67,7 +67,7 @@ nav .logo {
     background: #4c85bd;
     display: block;
     margin: auto;
-    transition: 0.5s;
+    transition: 0.2s;
 }
 
 .nav-links ul li:hover::after {
